@@ -13,7 +13,7 @@ pipeline {
 	}
 		stage('Execution') { 
             steps {
-                sh "java -jar target/Phase5ProjectOpen-0.0.1-SNAPSHOT.jar"
+                sh "java -jar target/Phase5Proj-0.0.1-SNAPSHOT.jar"
             }
 	}
 
