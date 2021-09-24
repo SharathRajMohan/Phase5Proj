@@ -8,7 +8,7 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springboot.base</groupId>
+	<groupId>com.example.demo</groupId>
 	<artifactId>Phase5Proj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Phase5Proj</name>
