@@ -1,0 +1,14 @@
+package com.springboot.base.Controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class MainControllers {
+	
+	@RequestMapping(path = {"/"})
+	public String index() {
+		return "Index";
+	}
+
+}
